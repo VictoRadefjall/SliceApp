@@ -1,2 +1,7 @@
 # SliceApp
-Creating a Pizza delivery App with .json Api, Express.js, and node.
+Creating a Pizza delivery App
+Working with 
+.json Api, 
+Express.js, 
+Node,
+Vue.js
